@@ -1,0 +1,11 @@
+html, body, #root {
+  height: 100vh;
+}
+
+.MuiMenu-paper {
+  background: #fff !important;
+}
+
+.MuiDialog-paperScrollPaper {
+  background: #fff !important;
+}
